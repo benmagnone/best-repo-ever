@@ -1,3 +1,1 @@
-# best-repo-ever
-
-Test best repo ever
+# best-repo-ever<<<<<<< myfeaturebranch
